@@ -1,0 +1,12 @@
+gen: 
+\t gcc -o boutef genere.c -Wall
+
+rungen :
+\t ./boutef
+
+
+alg : 
+\t gcc -o moh6 algos.c -Wall
+
+runalg : 
+\t ./moh6 

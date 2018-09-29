@@ -1,0 +1,111 @@
+    1  sudo aptitude
+    2  clear
+    3  sudo apt install aptitude
+    4  man apt
+    5  sudo apt update
+    6  sudo apt full-upgrade 
+    7  sudo apt autoremove 
+    8  sudo apt autoclean
+    9  sudo apt-get  clean
+   10  sudo apt-get
+   11  sudo apt-get clean
+   12  gsettings 
+   13  gsettings list-recursively apps.light-locker
+   14  gsettings set apps.light-locker lock-after-screensaver 0
+   15  gsettings set apps.light-locker lock-on-suspend false
+   16  gsettings list-recursively apps.light-locker
+   17  exit
+   18  mount
+   19  exit
+   20  apt search r-sem
+   21  apt search "r-sem"
+   22  apt search "sem"
+   23  apt search factominer
+   24  apt search nortest
+   25  apt search r-base
+   26  ls -l /usr/local/lib/R/
+   27  sudo gpasswd -a user staff
+   28  exit
+   29  R
+   30  exit
+   31  mysql
+   32  mysql -p
+   33  sudo apt install phpmyadmin
+   34  sudo dpkg-reconfigure phpmyadmin 
+   35  exit
+   36  ls -lA
+   37  ls -lA .cache/
+   38  exit
+   39  l
+   40  ls -lA
+   41  rm -r .eclipse/ eclipse-java-oxygen-workspace/
+   42  exit
+   43  l Téléchargements/
+   44  ls Téléchargements/
+   45  cd /opt
+   46  ls
+   47  ls -l
+   48  sudo tar xfz ~/Téléchargements/ideaIC-2017.2.3-no-jdk.tar.gz 
+   49  ls -l
+   50  sudo rm idea
+   51  sudo ln -s /opt/idea-IC-172.3968.16 idea
+   52  ls -l
+   53  sudo rm -r idea-IC-171.4694.70/
+   54  exit
+   55  ls -A
+   56  rm -r .IdeaIC2017.1
+   57  clear
+   58  exit
+   59  docker ps
+   60  exit
+   61  man make
+   62  geany constante.h &
+   63  geany constantes.h &
+   64  cd /home/user/Bureau/IN301/
+   65  ls
+   66  cd td_é
+   67  cd td_2
+   68  ls
+   69  wc -l nombres.data 
+   70  man 3 fscanf
+   71  make gen
+   72  make rungen
+   73  make gen
+   74  make rungen
+   75  make gen
+   76  make rungen
+   77  make gen
+   78  make rungen
+   79  gcc -o boutef genere.C
+   80  gcc -o boutef genere.c
+   81  Make gen
+   82  make gen
+   83  Make rungen
+   84  make rungen
+   85  make alg
+   86  make runalg
+   87  ./boutef
+   88  make alg
+   89  ./moh6
+   90  wc -c moh6
+   91  wc moh6
+   92  wc genere.c
+   93  wc -c genere.c
+   94  wc -c moh6
+   95  make charcount
+   96  make charc genere.c
+   97  wc -c genere.c
+   98  make charc genere.c
+   99  make charc 
+  100  ./beji genere.c
+  101  history
+  102  wc -c genere.c
+  103  cd /home/user/Bureau/IN301/
+  104  ls
+  105  cd /td_2/
+  106  cd td_2
+  107  ls
+  108  wc -c genere.c
+  109  make charc
+  110  ./beji genere.c
+  111  history > history2

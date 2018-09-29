@@ -1,0 +1,166 @@
+    1  sudo aptitude
+    2  clear
+    3  sudo apt install aptitude
+    4  man apt
+    5  sudo apt update
+    6  sudo apt full-upgrade 
+    7  sudo apt autoremove 
+    8  sudo apt autoclean
+    9  sudo apt-get  clean
+   10  sudo apt-get
+   11  sudo apt-get clean
+   12  gsettings 
+   13  gsettings list-recursively apps.light-locker
+   14  gsettings set apps.light-locker lock-after-screensaver 0
+   15  gsettings set apps.light-locker lock-on-suspend false
+   16  gsettings list-recursively apps.light-locker
+   17  exit
+   18  mount
+   19  exit
+   20  apt search r-sem
+   21  apt search "r-sem"
+   22  apt search "sem"
+   23  apt search factominer
+   24  apt search nortest
+   25  apt search r-base
+   26  ls -l /usr/local/lib/R/
+   27  sudo gpasswd -a user staff
+   28  exit
+   29  R
+   30  exit
+   31  mysql
+   32  mysql -p
+   33  sudo apt install phpmyadmin
+   34  sudo dpkg-reconfigure phpmyadmin 
+   35  exit
+   36  ls -lA
+   37  ls -lA .cache/
+   38  exit
+   39  l
+   40  ls -lA
+   41  rm -r .eclipse/ eclipse-java-oxygen-workspace/
+   42  exit
+   43  l Téléchargements/
+   44  ls Téléchargements/
+   45  cd /opt
+   46  ls
+   47  ls -l
+   48  sudo tar xfz ~/Téléchargements/ideaIC-2017.2.3-no-jdk.tar.gz 
+   49  ls -l
+   50  sudo rm idea
+   51  sudo ln -s /opt/idea-IC-172.3968.16 idea
+   52  ls -l
+   53  sudo rm -r idea-IC-171.4694.70/
+   54  exit
+   55  ls -A
+   56  rm -r .IdeaIC2017.1
+   57  clear
+   58  exit
+   59  docker ps
+   60  exit
+   61  man commande
+   62  man ls
+   63  whereis
+   64  whereis(1)
+   65  man whereis
+   66  pwd
+   67  lf
+   68  ls
+   69  man mkdir
+   70  man mv
+   71  man wc
+   72  man cat
+   73  man cd
+   74  man mkdir
+   75  whereis
+   76  whereis ls
+   77  cd
+   78  ls
+   79  cd /Bureau
+   80  pwd
+   81  cd /home/user/Bu*
+   82  ls
+   83  man mkdir
+   84  mkdir essai
+   85  ls
+   86  cd /home/user
+   87  ls
+   88  cd /home/user/B*
+   89  cd /home/user/B*/es*
+   90  geany fic1 & 
+   91  ls
+   92  geany fic1 &
+   93  ls
+   94  geany fic1 1
+   95  ls
+   96  geany fic1 1
+   97  ls
+   98  geany fic1 &
+   99  ls
+  100  man cat
+  101  man wc
+  102  man rm
+  103  man mv
+  104  mkdir
+  105  man mkdir
+  106  man pwd
+  107  man cd
+  108  man ls
+  109  cp fic1 /home/user/Bureau/essai/
+  110  cp fic1 fic2
+  111  ls
+  112  man rm
+  113  man mv
+  114  mv fic2 fic3
+  115  ls
+  116  man rm
+  117  rm fic1
+  118  ls
+  119  rm fic3
+  120  ls
+  121  debug.c
+  122  cat debug.c
+  123  cd ..
+  124  cd B*
+  125  cd essai/
+  126  cat debug.c
+  127  wc debug.c
+  128  wc -l debug.
+  129  wc -l debug.c
+  130  wc -m debug.c
+  131  gcc debug.c
+  132  ls
+  133  ./a.out.
+  134  ./a.out
+  135  gcc -o exo1 debug.c
+  136  ls
+  137  .exo1
+  138  ./exo1
+  139  gcc -o exo1 -Wall debug.c
+  140  gcc -o exo1 -Wall debug.c -1m
+  141  gcc -o exo1 -Wall debug.c -lm
+  142  cd ..
+  143  mkdir IN301
+  144  ls
+  145  cd /IN*
+  146  cd IN301/
+  147  for x in $(seq 1 12); do mkdir "td_$x"; done
+  148  ls
+  149  mkdir 00 Notes de Cours
+  150  ls
+  151  mkdir 99 projet
+  152  ls
+  153  rm 00
+  154  rm /00
+  155  pwd 
+  156  rm /home/user/Bureau/IN301/00/
+  157  ls
+  158  mkdir '00 Notes de Cours'
+  159  ls
+  160  mkdir ' 99 Projet'
+  161  ls
+  162  ls -tree
+  163  ls -Tree
+  164  ? 
+  165  history
+  166  history > sauv

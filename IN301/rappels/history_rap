@@ -1,0 +1,125 @@
+    1  sudo aptitude
+    2  clear
+    3  sudo apt install aptitude
+    4  man apt
+    5  sudo apt update
+    6  sudo apt full-upgrade 
+    7  sudo apt autoremove 
+    8  sudo apt autoclean
+    9  sudo apt-get  clean
+   10  sudo apt-get
+   11  sudo apt-get clean
+   12  gsettings 
+   13  gsettings list-recursively apps.light-locker
+   14  gsettings set apps.light-locker lock-after-screensaver 0
+   15  gsettings set apps.light-locker lock-on-suspend false
+   16  gsettings list-recursively apps.light-locker
+   17  exit
+   18  cd /home/user/Bureau/
+   19  l
+   20  ls
+   21  cd IN301/
+   22  ls
+   23  cd rappels/
+   24  ls
+   25  gcc -o eg_mul.c
+   26  gcc -o spain  eg_mul.c -Wall
+   27  ls
+   28  ./spain 1 4
+   29  ./spain 4 1
+   30  gcc -o spain  eg_mul.c -Wall
+   31  gcc -o spain eg_mul.c -Wall
+   32  ./spain 4 1
+   33  ./spain 1 4
+   34  gcc -o spain eg_mul.c -Wall
+   35  ./spain 1 4
+   36  ./spain 4 1
+   37  gcc -o spain eg_mul.c -Wall
+   38  ./spain 4 1
+   39  ./spain 1 4
+   40  ./spain 500 2
+   41  ./spain 2 500
+   42  ls
+   43  gcc -o portugal prime_test.c -Wall
+   44  ls
+   45  gcc -o portugal prime_test.c -Wall
+   46  ls
+   47  gcc -o portugal prime_test.c -Wall - lm
+   48  gcc -o portugal prime_test.c -Wall -lm
+   49  ls
+   50  man lm
+   51  man gcc
+   52  man 7 gcc
+   53  man 7 undocumented
+   54  ./portugal 4
+   55  ./portugal 15
+   56  ./portugal 17
+   57  ./portugal 14
+   58  ./portugal 19
+   59  ./portugal 3
+   60  gcc -o portugal prime_test.c -Wall -lm
+   61  ./portugal 3
+   62  ./portugal 19
+   63  ./portugal 15
+   64  ./portugal 0
+   65  ./portugal 2
+   66  ./portugal 4
+   67* 
+   68  ./portugal 4
+   69  gcc -o portugal prime_test.c -Wall -lm
+   70  ./portugal 4
+   71  gcc -o portugal prime_test.c -Wall -lm
+   72  ./portugal 4
+   73* ./portugal 
+   74  ./portugal 15
+   75  gcc -o portugal prime_test.c -Wall -lm
+   76  ./portugal 15
+   77  ./portugal 4
+   78  ./portugal 2
+   79  ./portugal 3
+   80  ./portugal 5
+   81  ./portugal 4
+   82  ./portugal 6
+   83  ./portugal 7
+   84  ./portugal 8
+   85  ./portugal 9
+   86  ./portugal 10
+   87  ./portugal 11
+   88  gcc -o italy nombres_amis.c -Wall
+   89  ls
+   90  ./itale 220 284
+   91  ./italy 220 284
+   92  ls
+   93  gcc -o italy nombres_amis.c -Wall
+   94  ./italy 220 284
+   95  ./italy 220 220
+   96  ./italy 220 284
+   97  gcc -o italy nombres_amis.c -Wall
+   98  ./italy 220 284
+   99  ./italy 220 220
+  100  gcc -o italy nombres_amis.c -Wall
+  101  ./italy 220 220
+  102  ./italy 220 284
+  103  ./italy 6 6
+  104  gcc -o italy nombres_amis.c -Wall
+  105  ./italy 300
+  106  gcc -o italy nombres_amis.c -Wall
+  107  ./italy 300
+  108  gcc -o italy nombres_amis.c -Wall
+  109  ./italy 300
+  110  gcc -o italy nombres_amis.c -Wall
+  111  ./italy 300
+  112  gcc -o italy nombres_amis.c -Wall
+  113  ./italy 300
+  114  ./italy 1000
+  115  ./italy 10000
+  116  gcc -o italy nombres_amis.c -Wall
+  117  ./italy 10000
+  118  gcc -o italy2 nombres_amis2.c -Wall
+  119  ls
+  120  ./italy2 10000
+  121  gcc -o italy2 nombres_amis2.c -Wall
+  122  ./italy2 10000
+  123  gcc -o italy2 nombres_amis2.c -Wall
+  124  ./italy2 10000
+  125  history > history_rap
